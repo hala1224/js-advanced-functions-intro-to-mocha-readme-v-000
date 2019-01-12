@@ -15,5 +15,5 @@ function shouting(str) {
   return `${str.toUpperCase()}`;
 }
 function roundDown(num) {
-  return `${num.Math
+  return `${Math.round(num)}`;
 }
