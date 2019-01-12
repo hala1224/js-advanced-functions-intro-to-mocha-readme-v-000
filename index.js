@@ -4,4 +4,6 @@ function theTruth() {
 function sayHey() {
   return 'Hey!';
 }
-function 
+function sayHeyFriend(name) {
+  return `Hey, ${name}`;
+}
